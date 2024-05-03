@@ -1,0 +1,9 @@
+## Interface: 30400
+## Title: RunePack
+## Notes: Six pack shaped rune tracker heavily based on RuneHero.
+## Author: Hrygar
+## SavedVariables: RunePack_Saved
+## Version: 3.0
+
+RunePack.xml
+RunePack.lua
